@@ -1,0 +1,2 @@
+# SwiftyMarkDownSample
+SwiftyMarkDownを使ってハイパーリンクっぽく画面遷移するためのサンプルコード
